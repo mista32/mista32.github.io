@@ -110,7 +110,7 @@ title: web
 
 ```yaml
 title: Hanlin Cai
-url: https://caihanlin.com
+url: https://mista32.github.io
 
 owner: 
   name: Hanlin Cai
@@ -156,7 +156,7 @@ links:
 
 ### (5) 文件链接配置
 
-现在，聪明的你可能又发现了，在笔者的站点中，点击[Here is my Resume](https://caihanlin.com/file/CV-HanlinCAI.pdf)，就可以访问笔者的个人简历。也就是说，你只需要甩给别人一个链接，就可以实时访问你的最新简历，而不用重复发送最新版简历，这真是太方便了！
+现在，聪明的你可能又发现了，在笔者的站点中，点击[Here is my Resume](https://mista32.github.io/file/CV-HanlinCAI.pdf)，就可以访问笔者的个人简历。也就是说，你只需要甩给别人一个链接，就可以实时访问你的最新简历，而不用重复发送最新版简历，这真是太方便了！
 
 <br>于是，笔者要引入Jekyll静态站点的第二条哲学了：**二次元站点世界，是由链接构成的**。
 
@@ -183,7 +183,7 @@ links:
 <br>比如，在笔者站点中的`project.md`, `publications.md`等页面中，都有需要超链接地址，可以直接访问`mypaper`文件夹下的PDF文件，这就是通过绝对地址实现的，下面是配置方法：
 
 ```markdown
-[Here is my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf)
+[Here is my Resume](https://mista32.github.io/file/Resume-HanlinCAI.pdf)
 [] 里面放置你想显示的内容文本
 () 紧跟着，放置文件的绝对地址
 ```
